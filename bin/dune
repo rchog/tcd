@@ -1,0 +1,4 @@
+(executable
+ (public_name tcd)
+ (name tcd)
+ (libraries tcd base stdio ptime ptime.clock.os unix))
